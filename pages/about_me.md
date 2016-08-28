@@ -7,7 +7,7 @@ icon: glyphicon-heart
 
 ## 陈严
 
-<img src="/static/images/chenyan.jpg" width="23%" height="25%" />
+<img src="/static/images/chenyan.jpg" width="18%" height="18%" />
 
 __学位__：西南大学观赏园艺硕士学位(2017.6月毕业) 
 
