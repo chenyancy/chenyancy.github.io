@@ -4,7 +4,6 @@ title: About Me
 permalink: /about_me/
 icon: glyphicon-heart
 ---
-
 ##陈严
 邮箱：1508300250@qq.com
 
